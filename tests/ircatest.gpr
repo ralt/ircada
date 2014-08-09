@@ -1,0 +1,7 @@
+project Ircatest is
+
+   for Source_Dirs use ("src", "../src");
+
+   for Main use ("ircatest.adb");
+
+end Ircatest;
