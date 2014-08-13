@@ -1,3 +1,3 @@
 package Ircada is
-   procedure Print;
+   procedure Start;
 end Ircada;

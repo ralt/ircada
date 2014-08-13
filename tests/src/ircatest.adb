@@ -2,5 +2,5 @@ with Ircada;
 
 procedure Ircatest is
 begin
-   Ircada.Print;
+   Ircada.Start;
 end Ircatest;
